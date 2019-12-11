@@ -12,6 +12,7 @@ Thumbs.db
 .DS_Store
 ._.DS_Store
 
+bitrix/.settings.php
 bitrix/activities/
 bitrix/admin/
 bitrix/backup/
