@@ -1,6 +1,7 @@
 .idea
 /.htaccess
 /upload/
+logs/
 /*.txt
 /*.html
 ~*.php
