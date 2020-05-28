@@ -54,7 +54,6 @@ bitrix/updates/
 bitrix/panel/
 
 bitrix/php_interface/dbconn.php
-bitrix/php_interface/constants.php
 
 bitrix/cache/
 bitrix/managed_cache/
