@@ -21,7 +21,7 @@ Thumbs.db
 /bitrix/admin/
 /bitrix/backup/
 /bitrix/click.php
-/bitrix/components/*
+/bitrix/components/
 /bitrix/coupon_activation.php
 /bitrix/footer.php
 /bitrix/gadgets/
