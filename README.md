@@ -3,7 +3,7 @@
 
 Установка .gitignore:
 ```
-wget https://raw.githubusercontent.com/MashinaMashina/Bitrix/master/gitignore && mv gitignore .gitignore
+wget -O .gitignore https://raw.githubusercontent.com/MashinaMashina/Bitrix/master/gitignore
 ```
 
 Чтобы закрыть доступ к папке в битрикс, зайдя в нее, пропишите в консоли:
