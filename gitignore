@@ -53,6 +53,8 @@ Thumbs.db
 /bitrix/updates/
 /bitrix/panel/
 /bitrix/services/
+/bitrix/php_interface/include/sale_payment/
+/bitrix/php_interface/include/sale_delivery/
 
 /bitrix/php_interface/dbconn.php
 
