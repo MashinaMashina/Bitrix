@@ -10,7 +10,6 @@ logs/
 /*.html
 ~*.php
 *.log
-*.xml
 /*.sql
 Thumbs.db
 .DS_Store
