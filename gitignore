@@ -8,7 +8,7 @@
 logs/
 /*.txt
 /*.html
-~*.php
+~*
 *.log
 /*.sql
 Thumbs.db
