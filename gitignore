@@ -6,7 +6,6 @@
 /.htaccess
 /upload/
 logs/
-/*.txt
 /*.html
 ~*
 *.log
