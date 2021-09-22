@@ -1,3 +1,4 @@
+
 # Bitrix
 Файлы для битрикса
 
@@ -10,3 +11,4 @@ wget -O .gitignore https://raw.githubusercontent.com/MashinaMashina/Bitrix/maste
 ```
 wget https://raw.githubusercontent.com/MashinaMashina/Bitrix/master/.access.php
 ```
+[Настройка git в Битрикс](https://r-morozov.ru/bitrix/nastrojka-git-gitignore-dlya-bitriks/)
