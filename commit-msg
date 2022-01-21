@@ -4,4 +4,4 @@
 name=$(git config user.name)
 email=$(git config user.email)
 
-echo "Author: $name <$email>. If is not you, please change commit author"
+echo "Author: $name <$email>"
