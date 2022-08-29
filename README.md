@@ -17,4 +17,9 @@ wget https://raw.githubusercontent.com/MashinaMashina/Bitrix/master/.access.php
 wget -P .git/hooks https://raw.githubusercontent.com/MashinaMashina/Bitrix/master/commit-msg && chmod +x .git/hooks/commit-msg
 ```
 
+Хук с добавлением имени ветки в сообщение коммита
+```
+wget -P .git/hooks https://raw.githubusercontent.com/MashinaMashina/Bitrix/master/prepare-commit-msg && chmod +x .git/hooks/prepare-commit-msg
+```
+
 [Настройка git в Битрикс](https://r-morozov.ru/bitrix/nastrojka-git-gitignore-dlya-bitriks/)
